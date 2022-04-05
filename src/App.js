@@ -5,6 +5,7 @@ import React from "react";
 import {Router} from "react-router-dom";
 
 function App() {
+  //Instalamos Router e Bootstrap
   return(
   <ThemeProvider>
   <Router />
